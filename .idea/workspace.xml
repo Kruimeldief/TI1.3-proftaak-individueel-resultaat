@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4bc4fb6f-4bff-496c-bde6-df316248d43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/overig/json-applicaties.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/overig/json-applicaties.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/week6/sprint1.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week6/sprint1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/week6/sprint2.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week6/sprint2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/week7/sprint3.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week7/sprint3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/week7/sprint4.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week7/sprint4.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592920559289</updated>
-      <workItem from="1592920561203" duration="9057000" />
+      <workItem from="1592920561203" duration="9524000" />
     </task>
     <task id="LOCAL-00001" summary="Structure">
       <created>1592920838933</created>
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592927632690</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished json-applicaties.md">
+      <created>1592929641907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592929641907</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,24 +117,25 @@
     <MESSAGE value="Improved navigation links" />
     <MESSAGE value="refactored index.md" />
     <MESSAGE value="Finished stelling-reflectie.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished stelling-reflectie.md" />
+    <MESSAGE value="Finished json-applicaties.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished json-applicaties.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592920851290">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592920851290" />
-    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592927631835">
+    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592929641070">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592927631835" />
+    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592929641070" />
     <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1592927636527">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592927636527" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592929631961">
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592930122849">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592929631961" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592930122849" />
   </component>
 </project>
