@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592920559289</updated>
-      <workItem from="1592920561203" duration="17511000" />
+      <workItem from="1592920561203" duration="17940000" />
     </task>
     <task id="LOCAL-00001" summary="Structure">
       <created>1592920838933</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592943909847</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finished sprint3.md">
+      <created>1592946405916</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592946405916</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,24 +146,25 @@
     <MESSAGE value="Added sprints layout" />
     <MESSAGE value="Finished sprint1.md&#10;Added images." />
     <MESSAGE value="Finished sprint2.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished sprint2.md" />
+    <MESSAGE value="Finished sprint3.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished sprint3.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592920851290">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592920851290" />
-    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592943909034">
+    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592946404867">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592943909034" />
+    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592946404867" />
     <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1592943916215">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592943916215" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592946379734">
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592946624455">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592946379734" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592946624455" />
   </component>
 </project>

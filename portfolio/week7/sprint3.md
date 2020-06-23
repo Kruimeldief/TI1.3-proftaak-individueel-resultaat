@@ -25,6 +25,42 @@ de kaarten ook normaal gekleurd blijven en de gebruiker altijd de kaart goed kan
 een onzichtbare actie voor de gebruiker, waarmee ik bedoel te zeggen dat als de gebruiker niet weet dat hij op de kaart
 kan drukken, hij nooit het deck zal kunnen aanpassen.
 
+```java
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+    ...
+    }
+    // On click listeners for buttons
+    this.showDeck.setOnClickListener(v -> startActivity(new Intent(DeckAvailableActivity.this, DeckShowCurrentActivity.class)));
+    this.changeDeck.setOnClickListener(v -> changeDeck(dirtyPos));
+    ...
+}
+private void changeDeck(int index) {
+        changeDeck(index, true);
+}
+
+private void changeDeck(int index, boolean manipulateDeck) {
+
+    Card cardShown = this.onboardingAdapterViewPager.getCards().get(index);
+    List<Card> deckCards = DataStore.getInstance().getDeckCards();
+
+    // Check if current card is listed in the deckCards.
+    if (deckCards.contains(cardShown)) {
+        this.changeDeck.setText(R.string.deck_available_change_deck_remove);
+        if (manipulateDeck) {
+            this.changeDeck.setText(R.string.deck_available_change_deck_add);
+            DataStore.getInstance().removeDeckCard(cardShown);
+        }
+    } else {
+        this.changeDeck.setText(R.string.deck_available_change_deck_add);
+        if (manipulateDeck) {
+            this.changeDeck.setText(R.string.deck_available_change_deck_remove);
+            DataStore.getInstance().addDeckCard(cardShown);
+        }
+    }
+}
+```
+
 ---
 
 ### Grootte van de ViewPager2
