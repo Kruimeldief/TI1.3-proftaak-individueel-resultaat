@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc4fb6f-4bff-496c-bde6-df316248d43f" name="Default Changelist" comment="Added navigation links on each markdown page">
-      <change afterPath="$PROJECT_DIR$/portfolio/overig/stelling-reflectie.md" afterDir="false" />
+    <list default="true" id="4bc4fb6f-4bff-496c-bde6-df316248d43f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/overig/javafx-stelling.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/overig/json-applicaties.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/overig/json-applicaties.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/week6/sprint1.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week6/sprint1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/week6/sprint2.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week6/sprint2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/week7/sprint3.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week7/sprint3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/week7/sprint4.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/week7/sprint4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/overig/stelling-reflectie.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/overig/stelling-reflectie.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -52,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592920559289</updated>
-      <workItem from="1592920561203" duration="2485000" />
+      <workItem from="1592920561203" duration="7051000" />
     </task>
     <task id="LOCAL-00001" summary="Structure">
       <created>1592920838933</created>
@@ -68,34 +62,61 @@
       <option name="project" value="LOCAL" />
       <updated>1592921081144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Improved navigation links">
+      <created>1592923080044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592923080044</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactored index.md">
+      <created>1592923152563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592923152563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Structure" />
     <MESSAGE value="Added more to the structure" />
     <MESSAGE value="Added navigation links on each markdown page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added navigation links on each markdown page" />
+    <MESSAGE value="Improved navigation links" />
+    <MESSAGE value="refactored index.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored index.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592920851290">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="726" y="-757" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592920851290" />
-    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592923079045">
+    <state x="385" y="-965" key="CommitChangelistDialog2" timestamp="1592923151605">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592923079045" />
-    <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1592923116512">
+    <state x="385" y="-965" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592923151605" />
+    <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1592923156234">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592923116512" />
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592923141731">
+    <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592923156234" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1592927618439">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592923141731" />
+    <state x="623" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1592927618439" />
   </component>
 </project>
